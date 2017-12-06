@@ -1,6 +1,5 @@
 # NLP100
-Pythonで自然言語処理100本ノック
-
+Pythonで「自然言語処理100本ノック」 (http://www.cl.ecei.tohoku.ac.jp/nlp100/) を解きます．
 
 ## 動作環境
 
